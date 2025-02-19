@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding:0;
+    text-align: center;
+    font-famsily: Arial, Helvetica, sans-serif;
+}
+#blue{
+    background-color:#007aff ;
+    padding: 20px;
+    color:white ;
+}
+#grey{
+    background-color: rgb(241, 241, 241);
+    padding: 10px;
+}
+#container {
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+}
