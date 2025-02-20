@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.black{
+    background-color: rgb(41, 38, 47);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#title{
+    font-size: 32px;
+
+}
+#nav{
+    text-align: right;
+}
+.grey{
+    background-color: rgb(219, 219, 219);
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.img{
+    text-align: right;
+}
+.text{
+    font-weight: bold;
+    padding-left: 20px;
+}
+.table2{
+    border-spacing: 20px;
+    text-align: center;
+}
+.smallbox{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    border-radius: 10px;
+}
+.lastdiv{
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+    padding: 20px;
+    margin-top: 10px;
+}
+.div02{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
